@@ -1,4 +1,4 @@
-
+<img width="1427" alt="Screenshot 2024-01-27 at 16 28 10" src="https://github.com/fatimaujunwa/International-Football-Dashboard/assets/113392997/a43a1714-dd09-4d22-a0d7-6f058a19133f">
 
 
 # International Football Games Visualization (2000s)
