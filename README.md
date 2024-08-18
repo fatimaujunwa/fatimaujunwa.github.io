@@ -1,6 +1,7 @@
 <img width="1427" alt="Screenshot 2024-01-27 at 16 28 10" src="https://github.com/fatimaujunwa/International-Football-Dashboard/assets/113392997/a43a1714-dd09-4d22-a0d7-6f058a19133f">
 
 
+
 # International Football Games Analysis (2000s)
 
 Welcome to the GitHub repository for our Tableau visualization of international football games in the 2000s. This analysis provides insights into various aspects of the games, including top goal scorers, team performance, goal types, and more.
